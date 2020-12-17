@@ -1,11 +1,3 @@
-<!--
- * @Author: your name
- * @Date: 2020-12-16 22:41:05
- * @LastEditTime: 2020-12-16 22:57:44
- * @LastEditors: your name
- * @Description: In User Settings Edit
- * @FilePath: /nuxt-app/pages/index.vue
--->
 <template>
   <div class="container">
     <div>
