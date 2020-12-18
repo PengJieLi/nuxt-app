@@ -7,11 +7,13 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "pm2":""
+    "pm2": ""
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "nuxt": "^2.14.6"
+    "nuxt": "^2.14.6",
+    "sass": "^1.30.0",
+    "sass-loader": "^10.1.0"
   },
   "devDependencies": {}
 }

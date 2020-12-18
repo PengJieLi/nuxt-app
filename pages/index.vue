@@ -6,23 +6,9 @@
         nuxt-app
       </h1>
       <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--grey"
-        >
-          GitHub
-        </a>
-        <NuxtLink to="/about">about</NuxtLink>
+        <a class="button--green" href="/react/index">react</a>
+        <NuxtLink  class="button--green" to="/about">about</NuxtLink>
+        <NuxtLink  class="button--green" to="/cssPage/transfrom">transfrom</NuxtLink>
       </div>
     </div>
   </div>
@@ -70,5 +56,8 @@ export default {}
 
 .links {
   padding-top: 15px;
+}
+.red {
+  color: red;
 }
 </style>
