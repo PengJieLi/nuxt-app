@@ -35,5 +35,6 @@ export default {
   build: {
    
   },
+  telemetry: false,//关闭Are you interested in participation
   // buildDir: 'nuxt-dist'
 }

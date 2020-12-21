@@ -6,9 +6,10 @@
         nuxt-app
       </h1>
       <div class="links">
-        <a class="button--green" href="/react/index">react</a>
+        <a class="button--green" target="_blank" href="/react/index.html">react</a>
         <NuxtLink  class="button--green" to="/about">about</NuxtLink>
         <NuxtLink  class="button--green" to="/cssPage/transfrom">transfrom</NuxtLink>
+        <NuxtLink  class="button--green" to="/es6/set">Set</NuxtLink>
       </div>
     </div>
   </div>
