@@ -9,7 +9,8 @@
         <a class="button--green" target="_blank" href="/react/index.html">react</a>
         <NuxtLink  class="button--green" to="/about">about</NuxtLink>
         <NuxtLink  class="button--green" to="/cssPage/transfrom">transfrom</NuxtLink>
-        <NuxtLink  class="button--green" to="/es6/set">Set</NuxtLink>
+        <NuxtLink  class="button--green" to="/es6">ES6</NuxtLink>
+        <NuxtLink  class="button--green" to="/excel">上传</NuxtLink>
       </div>
     </div>
   </div>

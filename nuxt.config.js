@@ -18,6 +18,8 @@ export default {
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
   plugins: [
+    { src: "@/plugins/pixi", ssr: false },
+    { src: "@/plugins/iview", ssr: false }
   ],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
@@ -33,7 +35,7 @@ export default {
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {
-   
+
   },
   telemetry: false,//关闭Are you interested in participation
   // buildDir: 'nuxt-dist'
